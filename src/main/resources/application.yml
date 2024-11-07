@@ -1,0 +1,7 @@
+server:
+  port: 9090
+spring:
+  servlet:
+    multipart:
+      max-file-size: 4096MB
+      max-request-size: 4096MB
